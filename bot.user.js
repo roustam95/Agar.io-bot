@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        AposBot
-// @namespace   AposBot
+// @name        wolf95
+// @namespace   wolf
 // @include     http://agar.io/
 // @version     3.05
 // @grant       none
